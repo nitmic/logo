@@ -26,7 +26,7 @@
 | ![logo-expand](build/png_@1x/nitmic-logo-expand_light-color.png) | ![logo-floating](build/png_@1x/nitmic-logo-floating_light-color.png) |
 | 背景を含む | 背景を含まない |
 
-### Logomark
+### ロゴマーク
 
 アイコンやロゴマークに使用されているロゴマークのみの素材です．
 GitHub などの四角で角が丸くトリミングされるサービスに使用する場合や，ポスターなどでロゴマークを単体で使用する場合に使用してください．
