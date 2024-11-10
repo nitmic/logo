@@ -34,3 +34,8 @@
 ## 編集環境
 
 [Affinity Designer 2](https://affinity.serif.com/ja-jp/designer/) で作成しています．
+
+配色は [Apple のカラーガイドライン](https://developer.apple.com/design/human-interface-guidelines/color) を使用しています．
+
+フォントは [Inter](https://rsms.me/inter/) を使用しています．
+[Google Fonts](https://fonts.google.com/specimen/Inter) や [Adobe Fonts](https://fonts.adobe.com/fonts/inter-variable) で無料でダウンロードできます．
