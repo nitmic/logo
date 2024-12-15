@@ -9,16 +9,18 @@
 
 主に SNS などのアイコンに使用することを想定した素材です．
 
-| ![Icon Square](build/png_@1x/icon-square.png) | ![Icon Round Square](build/png_@1x/icon-round-square.png) | ![Icon Circle](build/png_@1x/icon-circle.png) |
+| Icon Square | Icon Round Square | Icon Circle |
 | :---: | :---: | :---: |
+| ![Icon Square](build/png_@1x/icon-square.png) | ![Icon Round Square](build/png_@1x/icon-round-square.png) | ![Icon Circle](build/png_@1x/icon-circle.png) |
 | favicon などのトリミングされないサービス用 | GitHub などの角丸四角形にトリミングされるサービス用 | X（旧 Twitter）などの丸にトリミングされるサービス用 |
 
 ### ロゴ
 
 主に Web サイトや印刷物などで使用することを想定した素材です．
 
-| ![Logo Short](build/png_@1x/logo-short_light-color-opaque.png) | ![Logo Horizontal](build/png_@1x/logo-horizontal_light-color-opaque.png) | ![Logo Vertical](build/png_@1x/logo-vertical_light-color-opaque.png) |
+| Logo Short | Logo Horizontal | Logo Vertical |
 | :---: | :---: | :---: |
+| ![Logo Short](build/png_@1x/logo-short_light-color-opaque.png) | ![Logo Horizontal](build/png_@1x/logo-horizontal_light-color-opaque.png) | ![Logo Vertical](build/png_@1x/logo-vertical_light-color-opaque.png) |
 | 略称のみを使用したロゴ | 正式名称を使用したヨコ向きのロゴ | 正式名称を使用したタテ向きのロゴ |
 
 ## 配色パターン
@@ -26,11 +28,11 @@
 ロゴについては，6 つの配色パターンを用意しています．
 背景の明るさや写真かどうかなどに応じて適切な配色を選択してください．
 
-| | | ライトテーマ | ダークテーマ |
-| :---: | :---: | :---: | :---: |
-| カラー | 不透明 | ![Light Color Opaque](build/png_@1x/logo-horizontal_light-color-opaque.png) | ![Dark Color Opaque](build/png_@1x/logo-horizontal_dark-color-opaque.png) |
-| カラー | 透明 | ![Light Color Transparent](build/png_@1x/logo-horizontal_light-color-transparent.png) | ![Dark Color Transparent](build/png_@1x/logo-horizontal_dark-color-transparent.png) |
-| グレースケール | 透明 | ![Light Gray](build/png_@1x/logo-horizontal_light-gray.png) | ![Dark Gray](build/png_@1x/logo-horizontal_dark-gray.png) |
+| | Light | Dark |
+| :---: | :---: | :---: |
+| Color Opaque | ![Light Color Opaque](build/png_@1x/logo-horizontal_light-color-opaque.png) | ![Dark Color Opaque](build/png_@1x/logo-horizontal_dark-color-opaque.png) |
+| Color Transparent | ![Light Color Transparent](build/png_@1x/logo-horizontal_light-color-transparent.png) | ![Dark Color Transparent](build/png_@1x/logo-horizontal_dark-color-transparent.png) |
+| Gray | ![Light Gray](build/png_@1x/logo-horizontal_light-gray.png) | ![Dark Gray](build/png_@1x/logo-horizontal_dark-gray.png) |
 
 ## 拡張子
 
